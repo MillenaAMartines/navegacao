@@ -16,6 +16,7 @@
 
 Menu li { 
     display: flex;
+
 }
 
 .Menu li a { 
@@ -28,7 +29,6 @@ Menu li {
 
 }
 
-.Menu li a:hover { 
+.Menu li:hover { 
     background-color: #00000020;
-
 }
